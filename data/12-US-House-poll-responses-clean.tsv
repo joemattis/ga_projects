@@ -1,0 +1,145 @@
+Democrat	Republican	Undecided	Other	Not Voting	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+44.0	44.0	9.0	2.0	1.0	yougov-economist-16733	YouGov/Economist	2012-11-03	2012-11-05		Likely Voters	743		Internet	Nonpartisan	None
+48.0	49.0	1.0			cnn-16606	CNN	2012-11-02	2012-11-04		Likely Voters	693	3.5	Live Phone	Nonpartisan	None
+47.0	46.0	7.0			dailykos-seiu-ppp-d-16640	DailyKos/SEIU/PPP (D)	2012-11-01	2012-11-04		Likely Voters	1300	2.7	Automated Phone	Sponsor	Dem
+46.0	46.0	7.0	1.0	1.0	democracy-corps-d-16617	Democracy Corps (D)	2012-11-01	2012-11-04		Likely Voters	1080		Live Phone	Pollster	Dem
+46.0	46.0	5.0	3.0		rasmussen-16649	Rasmussen	2012-10-29	2012-11-04		Likely Voters	7000		Automated Phone	Nonpartisan	None
+47.0	45.0	8.0			nbc-wsj-16546	NBC/WSJ	2012-11-01	2012-11-03		Likely Voters	1475	2.55	Live Phone	Nonpartisan	None
+41.0	45.0	10.0	2.0		yougov-economist-16365	YouGov/Economist	2012-10-26	2012-10-28		Likely Voters	688		Internet	Nonpartisan	None
+44.0	47.0				united-technologies-national-journal-16380	United Technologies/National Journal	2012-10-25	2012-10-28		Likely Voters	713	4.4	Live Phone	Nonpartisan	None
+48.0	46.0	5.0			cbs-times-16346	CBS/Times	2012-10-25	2012-10-28		Likely Voters	563	4.0	Live Phone	Nonpartisan	None
+47.0	46.0	7.0			dailykos-seiu-ppp-d-16322	DailyKos/SEIU/PPP (D)	2012-10-25	2012-10-28		Likely Voters	1400	2.6	Automated Phone	Sponsor	Dem
+43.0	46.0	8.0	3.0		rasmussen-16288	Rasmussen	2012-10-22	2012-10-28		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	43.0	13.0			npr-16310	NPR	2012-10-23	2012-10-25		Likely Voters	1000	3.1	Live Phone	Pollster	Dem
+45.0	46.0	9.0			politico-gwu-battleground-16258	Politico/GWU/Battleground	2012-10-22	2012-10-25		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+44.0	42.0	12.0	2.0	0.0	yougov-economist-16066	YouGov/Economist	2012-10-20	2012-10-22		Likely Voters	803		Internet	Nonpartisan	None
+46.0	46.0	8.0			dailykos-seiu-ppp-d-16074	DailyKos/SEIU/PPP (D)	2012-10-18	2012-10-21		Likely Voters	1300	2.7	Automated Phone	Sponsor	Dem
+47.0	44.0	6.0	2.0		democracy-corps-d-16024	Democracy Corps (D)	2012-10-18	2012-10-21		Likely Voters	1000	3.1	Live Phone	Pollster	Dem
+43.0	44.0	10.0	2.0		rasmussen-16153	Rasmussen	2012-10-15	2012-10-21		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+45.0	43.0	12.0			nbc-wsj-16000	NBC/WSJ	2012-10-17	2012-10-20		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+46.0	46.0	8.0			politico-gwu-battleground-16012	Politico/GWU/Battleground	2012-10-14	2012-10-18		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+42.0	43.0	13.0	2.0	1.0	yougov-economist-15873	YouGov/Economist	2012-10-13	2012-10-15		Likely Voters	826		Internet	Nonpartisan	None
+44.0	49.0	7.0			dailykos-seiu-ppp-d-15824	DailyKos/SEIU/PPP (D)	2012-10-12	2012-10-14		Likely Voters	1600	2.5	Automated Phone	Sponsor	Dem
+43.0	42.0	12.0	3.0		rasmussen-15807	Rasmussen	2012-10-08	2012-10-14		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	44.0	10.0			politico-gwu-battleground-15781	Politico/GWU/Battleground	2012-10-07	2012-10-11		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+46.0	41.0	10.0	2.0	1.0	yougov-economist-15646	YouGov/Economist	2012-10-06	2012-10-08		Likely Voters			Internet	Nonpartisan	None
+45.0	47.0	7.0			dailykos-seiu-ppp-d-15619	DailyKos/SEIU/PPP (D)	2012-10-04	2012-10-07		Likely Voters	1300	2.7	Automated Phone	Sponsor	Dem
+44.0	43.0	10.0	3.0		rasmussen-15600	Rasmussen	2012-10-01	2012-10-07		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	46.0	9.0			politico-gwu-battleground-15584	Politico/GWU/Battleground	2012-10-01	2012-10-04		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+43.0	43.0	13.0	2.0	0.0	yougov-economist-15515	YouGov/Economist	2012-09-29	2012-10-01		Likely Voters	785		Internet	Nonpartisan	None
+45.0	43.0				united-technologies-national-journal-15484	United Technologies/National Journal	2012-09-27	2012-09-30		Likely Voters	789		Live Phone	Nonpartisan	None
+47.0	45.0	8.0			dailykos-seiu-ppp-d-15473	DailyKos/SEIU/PPP (D)	2012-09-27	2012-09-30		Likely Voters	1100	2.8	Automated Phone	Sponsor	Dem
+48.0	45.0	6.0	2.0	1.0	npr-15489	NPR	2012-09-26	2012-09-30		Likely Voters	800		Live Phone	Pollster	Dem
+47.0	43.0	10.0			nbc-wsj-15480	NBC/WSJ	2012-09-26	2012-09-30		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+41.0	45.0	11.0	3.0		rasmussen-15443	Rasmussen	2012-09-24	2012-09-30		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	45.0	11.0	1.0		bloomberg-15362	Bloomberg	2012-09-21	2012-09-24		Likely Voters	789	3.5	Live Phone	Nonpartisan	None
+48.0	44.0	8.0			dailykos-seiu-ppp-d-15291	DailyKos/SEIU/PPP (D)	2012-09-20	2012-09-23		Likely Voters	1200	2.8	Automated Phone	Sponsor	Dem
+43.0	44.0	11.0	3.0		rasmussen-15332	Rasmussen	2012-09-17	2012-09-23		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	45.0	9.0			politico-gwu-battleground-15259	Politico/GWU/Battleground	2012-09-16	2012-09-20		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+44.0	36.0	15.0	1.0	3.0	yougov-economist-15131	YouGov/Economist	2012-09-15	2012-09-17		Adults	1000	3.9	Internet	Nonpartisan	None
+48.0	45.0	8.0			dailykos-seiu-ppp-d-15102	DailyKos/SEIU/PPP (D)	2012-09-13	2012-09-16		Likely Voters	1000	3.1	Automated Phone	Sponsor	Dem
+43.0	44.0	11.0	3.0		rasmussen-15089	Rasmussen	2012-09-10	2012-09-16		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	39.0	18.0			jz-analytics-15031	JZ Analytics	2012-09-11	2012-09-12		Likely Voters	1014	3.1	Internet	Nonpartisan	None
+46.0	46.0	6.0	1.0		democracy-corps-d-15006	Democracy Corps (D)	2012-09-08	2012-09-12		Likely Voters	1000	3.1	Live Phone	Pollster	Dem
+43.0	36.0	12.0	3.0	7.0	yougov-economist-14980	YouGov/Economist	2012-09-08	2012-09-10		Adults	1000	3.9	Internet	Nonpartisan	None
+49.0	43.0	7.0			ipsos-reuters-14978	Ipsos/Reuters	2012-09-07	2012-09-10		Registered Voters	942	3.4	Live Phone	Nonpartisan	None
+49.0	43.0	9.0			dailykos-seiu-ppp-d-14960	DailyKos/SEIU/PPP (D)	2012-09-07	2012-09-09		Likely Voters	1000	3.1	Automated Phone	Sponsor	Dem
+44.0	42.0	11.0	4.0		rasmussen-15022	Rasmussen	2012-09-03	2012-09-09		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	32.0	16.0	2.0	11.0	yougov-economist-14895	YouGov/Economist	2012-09-01	2012-09-03		Adults	1000	4.2	Internet	Nonpartisan	None
+42.0	43.0	13.0	3.0		rasmussen-15021	Rasmussen	2012-08-27	2012-09-02		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+36.0	34.0	17.0	2.0	12.0	yougov-economist-14826	YouGov/Economist	2012-08-25	2012-08-27		Adults	1000	4.2	Internet	Nonpartisan	None
+46.0	47.0	6.0	1.0		democracy-corps-d-14827	Democracy Corps (D)	2012-08-23	2012-08-27		Likely Voters	1000	3.1	Live Phone	Pollster	Dem
+50.0	42.0	8.0			dailykos-seiu-ppp-d-14809	DailyKos/SEIU/PPP (D)	2012-08-23	2012-08-26		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+42.0	42.0	12.0	4.0		rasmussen-14803	Rasmussen	2012-08-20	2012-08-26		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	40.0	16.0			resurgent-republic-r-14797	Resurgent Republic (R)	2012-08-16	2012-08-22		Registered Voters	1000	3.1	Live Phone	Pollster	Rep
+34.0	35.0	17.0	2.0	11.0	yougov-economist-14729	YouGov/Economist	2012-08-18	2012-08-20		Adults	1000	4.1	Internet	Nonpartisan	None
+47.0	42.0	11.0			nbc-wsj-14718	NBC/WSJ	2012-08-16	2012-08-20		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+47.0	45.0	8.0			dailykos-seiu-ppp-d-14714	DailyKos/SEIU/PPP (D)	2012-08-16	2012-08-19		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+41.0	42.0	15.0	3.0		rasmussen-14707	Rasmussen	2012-08-13	2012-08-19		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+37.0	35.0	16.0	2.0	11.0	yougov-economist-14659	YouGov/Economist	2012-08-11	2012-08-13		Adults	1000	4.1	Internet	Nonpartisan	None
+45.0	45.0	10.0			dailykos-seiu-ppp-d-14653	DailyKos/SEIU/PPP (D)	2012-08-09	2012-08-12		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+39.0	42.0	13.0	5.0		rasmussen-14642	Rasmussen	2012-08-06	2012-08-12		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	45.0	13.0			politico-gwu-battleground-14631	Politico/GWU/Battleground	2012-08-05	2012-08-09		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+35.0	33.0	17.0	3.0	11.0	yougov-economist-14598	YouGov/Economist	2012-08-04	2012-08-06		Adults	1000	4.1	Internet	Nonpartisan	None
+46.0	46.0	7.0	1.0		ipsos-reuters-14591	Ipsos/Reuters	2012-08-02	2012-08-06		Registered Voters	900	3.4	Live Phone	Nonpartisan	None
+46.0	45.0	9.0			dailykos-seiu-ppp-d-14582	DailyKos/SEIU/PPP (D)	2012-08-02	2012-08-05		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+39.0	42.0	14.0	4.0		rasmussen-14575	Rasmussen	2012-07-29	2012-08-05		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+36.0	34.0	17.0	3.0	11.0	yougov-economist-14531	YouGov/Economist	2012-07-28	2012-07-30		Adults	1000	4.5	Internet	Nonpartisan	None
+40.0	43.0	11.0	5.0		rasmussen-14502	Rasmussen	2012-07-23	2012-07-29		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	46.0	7.0	1.0		democracy-corps-d-14498	Democracy Corps (D)	2012-07-21	2012-07-25		Likely Voters	700	3.7	Live Phone	Pollster	Dem
+37.0	36.0	16.0	1.0	10.0	yougov-economist-14451	YouGov/Economist	2012-07-21	2012-07-23		Adults	1000	4.1	Internet	Nonpartisan	None
+45.0	45.0	10.0			dailykos-seiu-ppp-d-14434	DailyKos/SEIU/PPP (D)	2012-07-19	2012-07-22		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+46.0	45.0	9.0			nbc-wsj-14436	NBC/WSJ	2012-07-18	2012-07-22		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+40.0	43.0	12.0	4.0		rasmussen-14425	Rasmussen	2012-07-16	2012-07-22		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	34.0	14.0	2.0	11.0	yougov-economist-14378	YouGov/Economist	2012-07-14	2012-07-16		Adults	1000	4.1	Internet	Nonpartisan	None
+40.0	43.0	12.0	5.0		rasmussen-14359	Rasmussen	2012-07-09	2012-07-15		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+37.0	33.0	18.0	2.0	11.0	yougov-economist-14304	YouGov/Economist	2012-07-07	2012-07-09		Adults	1000	4.2	Internet	Nonpartisan	None
+44.0	48.0	8.0			ipsos-reuters-14291	Ipsos/Reuters	2012-07-05	2012-07-09		Registered Voters	885	3.0	Live Phone	Nonpartisan	None
+40.0	43.0	12.0	5.0		rasmussen-14280	Rasmussen	2012-07-02	2012-07-08		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	40.0	15.0	1.0	1.0	quinnipiac-14292	Quinnipiac	2012-07-01	2012-07-08		Registered Voters	2722	1.9	Live Phone	Nonpartisan	None
+37.0	34.0	18.0	2.0	9.0	yougov-economist-14250	YouGov/Economist	2012-06-30	2012-07-02		Adults	1000	4.4	Internet	Nonpartisan	None
+40.0	41.0	13.0	5.0		rasmussen-14238	Rasmussen	2012-06-25	2012-07-01		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+36.0	38.0	20.0	5.0		newsweek-daily-beast-14227	Newsweek/Daily Beast	2012-06-28	2012-06-28		Likely Voters	600	4.0	Live Phone	Pollster	Dem
+45.0	46.0		2.0		democracy-corps-d-14218	Democracy Corps (D)	2012-06-23	2012-06-27		Likely Voters	1000	3.1	Live Phone	Pollster	Dem
+37.0	32.0	17.0	2.0	12.0	yougov-economist-14199	YouGov/Economist	2012-06-23	2012-06-25		Adults	1000	4.2	Internet	Nonpartisan	None
+45.0	44.0	11.0			nbc-wsj-14183	NBC/WSJ	2012-06-20	2012-06-24		Registered Voters		3.4	Live Phone	Nonpartisan	None
+39.0	44.0	13.0	4.0		rasmussen-14237	Rasmussen	2012-06-18	2012-06-24		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	33.0	17.0	1.0	12.0	yougov-economist-14138	YouGov/Economist	2012-06-16	2012-06-18		Adults	1000	4.3	Internet	Nonpartisan	None
+48.0	41.0	8.0	3.0		bloomberg-14132	Bloomberg	2012-06-15	2012-06-18		Likely Voters	734	3.6	Live Phone	Nonpartisan	None
+38.0	45.0	12.0	4.0		rasmussen-14115	Rasmussen	2012-06-11	2012-06-17		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+47.0	43.0	10.0			pew-14149	Pew	2012-06-07	2012-06-17		Registered Voters	1563	2.9	Live Phone	Nonpartisan	None
+47.0	44.0	7.0	2.0		ipsos-reuters-14080	Ipsos/Reuters	2012-06-07	2012-06-11		Registered Voters	848	3.4	Live Phone	Nonpartisan	None
+39.0	45.0	12.0	4.0		rasmussen-14065	Rasmussen	2012-06-04	2012-06-10		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	40.0	21.0			monmouth-14032	Monmouth	2012-06-04	2012-06-06		Likely Voters	1152	2.9	IVR/Live Phone	Nonpartisan	None
+48.0	41.0	10.0			dailykos-seiu-ppp-d-14008	DailyKos/SEIU/PPP (D)	2012-05-31	2012-06-03		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+37.0	44.0	15.0	4.0		rasmussen-14002	Rasmussen	2012-05-28	2012-06-03		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+48.0	45.0	2.0	3.0		cnn-13981	CNN	2012-05-29	2012-05-31		Registered Voters	895	3.5	Live Phone	Nonpartisan	None
+39.0	42.0	14.0	5.0		rasmussen-13926	Rasmussen	2012-05-21	2012-05-27		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	43.0	13.0			nbc-wsj-13873	NBC/WSJ	2012-05-16	2012-05-20		Registered Voters		3.4	Live Phone	Nonpartisan	None
+39.0	43.0				rasmussen-13855	Rasmussen	2012-05-14	2012-05-20		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	50.0	6.0			gallup-13817	Gallup	2012-05-10	2012-05-13		Adults	1012		Live Phone	Nonpartisan	None
+38.0	45.0				rasmussen-13854	Rasmussen	2012-05-07	2012-05-12		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	44.0	8.0	1.0		ipsos-reuters-13713	Ipsos/Reuters	2012-05-03	2012-05-07		Registered Voters	959	3.2	Live Phone	Nonpartisan	None
+41.0	44.0				rasmussen-13853	Rasmussen	2012-04-30	2012-05-06		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	45.0	11.0			politico-gwu-battleground-13852	Politico/GWU/Battleground	2012-04-29	2012-05-03		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+45.0	40.0	14.0			resurgent-republic-r-13733	Resurgent Republic (R)	2012-04-30	2012-05-02		Registered Voters	1000	3.1	Live Phone	Pollster	Rep
+46.0	45.0	5.0	1.0		democracy-corps-d-13683	Democracy Corps (D)	2012-04-28	2012-05-01		Likely Voters	1000	3.5	Live Phone	Pollster	Dem
+47.0	42.0	11.0			dailykos-seiu-ppp-d-13658	DailyKos/SEIU/PPP (D)	2012-04-26	2012-04-29		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+40.0	43.0				rasmussen-13652	Rasmussen	2012-04-23	2012-04-29		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	43.0				rasmussen-13593	Rasmussen	2012-04-16	2012-04-22		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	44.0	10.0			nbc-wsj-13569	NBC/WSJ	2012-04-13	2012-04-17		Registered Voters			Live Phone	Nonpartisan	None
+40.0	39.0	17.0	1.0		quinnipiac-13560	Quinnipiac	2012-04-11	2012-04-17		Registered Voters	2577	1.9	Live Phone	Nonpartisan	None
+48.0	44.0	8.0			dailykos-seiu-ppp-d-13557	DailyKos/SEIU/PPP (D)	2012-04-12	2012-04-15		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+42.0	41.0	14.0	3.0		ipsos-reuters-13538	Ipsos/Reuters	2012-04-12	2012-04-15		Registered Voters	891	3.3	Live Phone	Nonpartisan	None
+36.0	46.0				rasmussen-13545	Rasmussen	2012-04-09	2012-04-15		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	45.0				rasmussen-13544	Rasmussen	2012-04-02	2012-04-08		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+39.0	45.0				rasmussen-13543	Rasmussen	2012-03-26	2012-04-01		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	43.0	14.0	5.0		rasmussen-13339	Rasmussen	2012-03-19	2012-03-26		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	47.0	7.0	3.0		marist-mcclatchy-13395	Marist/McClatchy	2012-03-20	2012-03-22		Registered Voters	846	3.5	Live Phone	Nonpartisan	None
+43.0	47.0	7.0		3.0	marist-mcclatchy-13344	Marist/McClatchy	2012-03-20	2012-03-22		Registered Voters	846	3.5	Live Phone	Nonpartisan	None
+40.0	44.0	12.0	4.0		rasmussen-13310	Rasmussen	2012-03-12	2012-03-18		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+47.0	43.0	7.0	2.0		ipsos-reuters-13208	Ipsos/Reuters	2012-03-08	2012-03-11		Registered Voters	937	3.3	Live Phone	Nonpartisan	None
+44.0	46.0	7.0	3.0		bloomberg-13207	Bloomberg	2012-03-08	2012-03-11		Likely Voters	746	3.1	Live Phone	Nonpartisan	None
+38.0	44.0	13.0	5.0		rasmussen-13311	Rasmussen	2012-03-05	2012-03-11		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	44.0	11.0			dailykos-seiu-ppp-d-13168	DailyKos/SEIU/PPP (D)	2012-03-01	2012-03-04		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+41.0	44.0	11.0	4.0		rasmussen-13312	Rasmussen	2012-02-27	2012-03-04		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	41.0	13.0			nbc-wsj-13135	NBC/WSJ	2012-02-29	2012-03-03		Adults	800	3.5	Live Phone	Nonpartisan	None
+39.0	43.0	13.0	4.0		rasmussen-13313	Rasmussen	2012-02-20	2012-02-26		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	45.0	8.0			politico-gwu-battleground-13244	Politico/GWU/Battleground	2012-02-19	2012-02-22		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+38.0	40.0	18.0	2.0		quinnipiac-12992	Quinnipiac	2012-02-14	2012-02-20		Registered Voters	2605	1.9	Live Phone	Nonpartisan	None
+47.0	47.0	6.0			gallup-13020	Gallup	2012-02-16	2012-02-19		Adults	1014	4.0	Live Phone	Nonpartisan	None
+46.0	39.0	15.0			dailykos-seiu-ppp-d-12988	DailyKos/SEIU/PPP (D)	2012-02-16	2012-02-19		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+41.0	42.0	13.0	4.0		rasmussen-13314	Rasmussen	2012-02-13	2012-02-19		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+47.0	45.0	6.0	1.0		democracy-corps-d-12934	Democracy Corps (D)	2012-02-11	2012-02-14		Likely Voters	1000	3.5	Live Phone	Pollster	Dem
+37.0	33.0	23.0	7.0		harris-internet-13280	Harris (internet)	2012-02-06	2012-02-13		Adults	2056		Internet	Nonpartisan	None
+41.0	43.0	12.0	4.0		rasmussen-13315	Rasmussen	2012-02-06	2012-02-12		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	44.0	6.0	1.0		ipsos-reuters-12743	Ipsos/Reuters	2012-02-02	2012-02-06		Registered Voters	881	3.3	Live Phone	Nonpartisan	None
+46.0	43.0	12.0			dailykos-seiu-ppp-d-12746	DailyKos/SEIU/PPP (D)	2012-02-02	2012-02-05		Registered Voters	1000	3.1	Automated Phone	Sponsor	Dem
+41.0	43.0	12.0	5.0		rasmussen-13316	Rasmussen	2012-01-30	2012-02-05		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+41.0	40.0	14.0	4.0		rasmussen-12808	Rasmussen	2012-01-23	2012-01-29		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+47.0	41.0	12.0			nbc-wsj-12644	NBC/WSJ	2012-01-22	2012-01-24		Adults	1000	3.1	Live Phone	Nonpartisan	None
+39.0	42.0	15.0	4.0		rasmussen-12801	Rasmussen	2012-01-16	2012-01-22		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	44.0	13.0	5.0		rasmussen-13319	Rasmussen	2012-01-09	2012-01-15		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+47.0	44.0				democracy-corps-d-12463	Democracy Corps (D)	2012-01-08	2012-01-11		Likely Voters	1000	3.5	Live Phone	Pollster	Dem
+48.0	44.0	5.0	2.0		ipsos-reuters-12444	Ipsos/Reuters	2012-01-05	2012-01-09		Registered Voters	896	3.2	Live Phone	Nonpartisan	None
+38.0	44.0	14.0	5.0		rasmussen-12443	Rasmussen	2012-01-02	2012-01-08		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None

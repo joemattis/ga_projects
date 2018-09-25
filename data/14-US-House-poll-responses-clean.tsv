@@ -1,0 +1,244 @@
+Democrat	Republican	Undecided	Other	Not Voting	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+45.0	46.0				nbc-wsj-21278	NBC/WSJ	2014-10-30	2014-11-01		Likely Voters	826	3.4	Live Phone	Nonpartisan	None
+42.0	46.0	9.0	3.0	1.0	huffpost-yougov-21285	HuffPost/YouGov	2014-10-28	2014-10-30		Likely Voters	802	4.1	Internet	Nonpartisan	None
+45.0	44.0	7.0	4.0		fox-21158	FOX	2014-10-25	2014-10-27		Likely Voters	734	3.5	Live Phone	Nonpartisan	None
+42.0	50.0	4.0	2.0	1.0	cbs-21202	CBS	2014-10-23	2014-10-27		Likely Voters	624	4.0	Live Phone	Nonpartisan	None
+47.0	46.0	2.0	4.0	0.0	cnn-21117	CNN	2014-10-24	2014-10-26		Likely Voters	540	4.0	Live Phone	Nonpartisan	None
+43.0	42.0	11.0	3.0		usa-today-psrai-21233	USA Today/PSRAI	2014-10-23	2014-10-26		Likely Voters	697	4.3	Live Phone	Nonpartisan	None
+44.0	50.0	4.0	1.0	1.0	abc-post-21133	ABC/Post	2014-10-23	2014-10-26		Likely Voters	758	4.0	Live Phone	Nonpartisan	None
+41.0	43.0	12.0	4.0		rasmussen-21130	Rasmussen	2014-10-20	2014-10-26		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+41.0	52.0	7.0			nbc-wsj-annenberg-21284	NBC/WSJ/Annenberg	2014-10-17	2014-10-23		Likely Voters	823	4.1	Live Phone	Nonpartisan	None
+46.0	46.0	6.0	1.0		democracy-corps-d-21021	Democracy Corps (D)	2014-10-16	2014-10-21		Likely Voters	698	3.0	Live Phone	Pollster	Dem
+32.0	40.0	15.0	12.0	0.0	ap-gfk-web-21151	AP-GfK (Web)	2014-10-16	2014-10-20		Likely Voters	968		Internet	Nonpartisan	None
+47.0	46.0				pew-21003	Pew	2014-10-15	2014-10-20		Likely Voters	1126	3.4	Live Phone	Nonpartisan	None
+41.0	41.0	12.0	5.0		rasmussen-20972	Rasmussen	2014-10-14	2014-10-20		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+44.0	49.0	7.0			nbc-wsj-annenberg-21283	NBC/WSJ/Annenberg	2014-10-10	2014-10-16		Likely Voters	484	5.42	Live Phone	Nonpartisan	None
+42.0	45.0	9.0	3.0		fox-20893	FOX	2014-10-12	2014-10-14		Likely Voters	831	3.0	Live Phone	Nonpartisan	None
+43.0	50.0	4.0	1.0	2.0	abc-post-20885	ABC/Post	2014-10-09	2014-10-12		Likely Voters			Live Phone	Nonpartisan	None
+47.0	48.0	4.0		1.0	nbc-wsj-20884	NBC/WSJ	2014-10-08	2014-10-12		Likely Voters	666	3.8	Live Phone	Nonpartisan	None
+40.0	40.0	15.0	6.0		rasmussen-20859	Rasmussen	2014-10-06	2014-10-12		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+48.0	43.0	9.0			nbc-wsj-annenberg-21282	NBC/WSJ/Annenberg	2014-10-03	2014-10-09		Registered Voters	1181	3.42	Live Phone	Nonpartisan	None
+43.0	42.0	10.0	5.0	0.0	ipsos-reuters-20764	Ipsos/Reuters	2014-10-03	2014-10-07		Likely Voters	623		Internet	Nonpartisan	None
+43.0	49.0	5.0	2.0	1.0	cbs-20777	CBS	2014-10-03	2014-10-06		Likely Voters	575	4.0	Live Phone	Nonpartisan	None
+42.0	33.0	12.0	13.0		reason-rupe-20811	Reason/Rupe	2014-10-01	2014-10-06		Registered Voters			Live Phone	Nonpartisan	None
+41.0	39.0	15.0	5.0		rasmussen-20788	Rasmussen	2014-09-30	2014-10-05		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+46.0	43.0	12.0			nbc-wsj-annenberg-21281	NBC/WSJ/Annenberg	2014-09-26	2014-10-02		Registered Voters	1181	3.42	Live Phone	Nonpartisan	None
+40.0	47.0	11.0	3.0		fox-20662	FOX	2014-09-28	2014-09-30		Likely Voters	845	3.0	Live Phone	Nonpartisan	None
+46.0	47.0	7.0			gallup-20813	Gallup	2014-09-25	2014-09-30		Registered Voters	1252	3.0	Live Phone	Nonpartisan	None
+33.0	33.0	25.0	10.0	0.0	ap-gfk-web-20659	AP-GfK (Web)	2014-09-25	2014-09-29		Likely Voters	958	3.5	Internet	Nonpartisan	None
+45.0	44.0	11.0			mcclatchy-marist-20686	McClatchy/Marist	2014-09-24	2014-09-29		Registered Voters	884	3.3	Live Phone	Nonpartisan	None
+47.0	45.0	3.0	4.0		cnn-20624	CNN	2014-09-25	2014-09-28		Likely Voters	701	3.5	Live Phone	Nonpartisan	None
+40.0	39.0	16.0	5.0		rasmussen-20654	Rasmussen	2014-09-22	2014-09-28		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+47.0	42.0	11.0			nbc-wsj-annenberg-21280	NBC/WSJ/Annenberg	2014-09-19	2014-09-25		Registered Voters	1283	3.15	Live Phone	Nonpartisan	None
+40.0	40.0	16.0	4.0		rasmussen-20543	Rasmussen	2014-09-15	2014-09-21		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+46.0	42.0	12.0			nbc-wsj-annenberg-21279	NBC/WSJ/Annenberg	2014-09-14	2014-09-18		Registered Voters	815	4.31	Live Phone	Nonpartisan	None
+42.0	49.0	5.0	3.0	1.0	cbs-times-20473	CBS/Times	2014-09-12	2014-09-15		Likely Voters	470	4.0	Live Phone	Nonpartisan	None
+41.0	38.0	14.0	6.0		rasmussen-20438	Rasmussen	2014-09-08	2014-09-14		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+40.0	47.0	9.0	4.0		fox-20375	FOX	2014-09-07	2014-09-09		Likely Voters	833	3.0	Live Phone	Nonpartisan	None
+44.0	47.0	8.0			pew-20410	Pew	2014-09-02	2014-09-09		Likely Voters	1150	3.3	Live Phone	Nonpartisan	None
+45.0	49.0	1.0	4.0	1.0	cnn-20354	CNN	2014-09-05	2014-09-07		Likely Voters			Live Phone	Nonpartisan	None
+46.0	44.0	4.0	1.0	5.0	abc-post-20348	ABC/Post	2014-09-04	2014-09-07		Registered Voters	888		Live Phone	Nonpartisan	None
+43.0	45.0	12.0			nbc-wsj-20356	NBC/WSJ	2014-09-03	2014-09-07		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+39.0	41.0	15.0	5.0		rasmussen-20338	Rasmussen	2014-09-01	2014-09-07		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+40.0	41.0	14.0	6.0		rasmussen-20336	Rasmussen	2014-08-25	2014-08-31		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+42.0	46.0	12.0			gwu-battleground-20260	GWU/Battleground	2014-08-24	2014-08-28		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+47.0	42.0	11.0			pew-usa-today-20209	Pew/USA Today	2014-08-20	2014-08-24		Registered Voters	1501	2.9	Live Phone	Nonpartisan	None
+39.0	40.0	16.0	5.0		rasmussen-20201	Rasmussen	2014-08-18	2014-08-24		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+39.0	39.0	16.0	6.0		rasmussen-20137	Rasmussen	2014-08-11	2014-08-17		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+46.0	39.0	12.0	3.0		fox-20110	FOX	2014-08-10	2014-08-12		Registered Voters	1001	3.0	Live Phone	Nonpartisan	None
+42.0	41.0	17.0			reason-rupe-20114	Reason/Rupe	2014-08-06	2014-08-10		Likely Voters			Live Phone	Nonpartisan	None
+39.0	40.0	15.0	6.0		rasmussen-20092	Rasmussen	2014-08-04	2014-08-10		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+38.0	43.0	18.0			mcclatchy-marist-20095	McClatchy/Marist	2014-08-04	2014-08-07		Registered Voters	806	3.5	Live Phone	Nonpartisan	None
+41.0	37.0	17.0	3.0	2.0	cbs-20059	CBS	2014-07-29	2014-08-04		Registered Voters			Live Phone	Nonpartisan	None
+43.0	44.0	13.0			nbc-wsj-20051	NBC/WSJ	2014-07-30	2014-08-03		Registered Voters			Live Phone	Nonpartisan	None
+38.0	42.0	16.0	5.0		rasmussen-20042	Rasmussen	2014-07-28	2014-08-03		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+33.0	33.0	33.0			ap-gfk-web-20024	AP-GfK (Web)	2014-07-24	2014-07-28		Adults	1044	3.4	Internet	Nonpartisan	None
+41.0	39.0	16.0	5.0		rasmussen-19964	Rasmussen	2014-07-21	2014-07-27		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+43.0	41.0	13.0	3.0		fox-19979	FOX	2014-07-20	2014-07-22		Registered Voters	1057	3.0	Live Phone	Nonpartisan	None
+48.0	44.0	2.0	5.0	1.0	cnn-19958	CNN	2014-07-18	2014-07-20		Registered Voters			Live Phone	Nonpartisan	None
+39.0	39.0	17.0	5.0		rasmussen-19893	Rasmussen	2014-07-14	2014-07-20		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+47.0	45.0	9.0			pew-19916	Pew	2014-07-08	2014-07-14		Registered Voters	1420	3.0	Live Phone	Nonpartisan	None
+39.0	38.0	16.0	7.0		rasmussen-19849	Rasmussen	2014-07-07	2014-07-13		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+41.0	38.0	15.0	7.0		rasmussen-19804	Rasmussen	2014-06-30	2014-07-06		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+41.0	39.0	17.0	2.0	2.0	quinnipiac-19810	Quinnipiac	2014-06-24	2014-06-30		Registered Voters	1446	2.6	Live Phone	Nonpartisan	None
+40.0	38.0	16.0	5.0		rasmussen-19776	Rasmussen	2014-06-23	2014-06-29		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+42.0	42.0	13.0	2.0		fox-19751	FOX	2014-06-21	2014-06-23		Registered Voters	1018	3.0	Live Phone	Nonpartisan	None
+42.0	39.0	16.0	2.0	1.0	cbs-times-19740	CBS/Times	2014-06-20	2014-06-22		Registered Voters			Live Phone	Nonpartisan	None
+40.0	38.0	16.0	6.0		rasmussen-19736	Rasmussen	2014-06-16	2014-06-22		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+45.0	43.0	12.0			nbc-wsj-19698	NBC/WSJ	2014-06-11	2014-06-15		Registered Voters			Live Phone	Nonpartisan	None
+39.0	37.0	17.0	7.0		rasmussen-19688	Rasmussen	2014-06-09	2014-06-15		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+43.0	43.0	11.0	3.0		bloomberg-19630	Bloomberg	2014-06-06	2014-06-09		Likely Voters	763		Live Phone	Nonpartisan	None
+41.0	37.0	16.0	5.0		rasmussen-19637	Rasmussen	2014-06-02	2014-06-08		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+39.0	43.0	15.0	3.0		fox-19584	FOX	2014-06-01	2014-06-03		Registered Voters	1006	3.0	Live Phone	Nonpartisan	None
+47.0	45.0	4.0	1.0	4.0	abc-post-19573	ABC/Post	2014-05-29	2014-06-01		Registered Voters			Live Phone	Nonpartisan	None
+41.0	38.0	16.0	6.0		rasmussen-19578	Rasmussen	2014-05-26	2014-06-01		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+42.0	38.0	15.0	5.0		rasmussen-19549	Rasmussen	2014-05-19	2014-05-25		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+37.0	31.0	32.0			ap-gfk-web-19533	AP-GfK (Web)	2014-05-16	2014-05-19		Adults	1354	3.0	Internet	Nonpartisan	None
+40.0	39.0	16.0	2.0	2.0	cbs-19515	CBS	2014-05-16	2014-05-19		Registered Voters			Live Phone	Nonpartisan	None
+41.0	37.0	15.0	6.0		rasmussen-19481	Rasmussen	2014-05-12	2014-05-18		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+43.0	40.0	13.0	4.0		fox-19450	FOX	2014-05-10	2014-05-13		Registered Voters	1025	3.0	Live Phone	Nonpartisan	None
+40.0	38.0	15.0	6.0		rasmussen-19419	Rasmussen	2014-05-05	2014-05-10		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+45.0	46.0	1.0	5.0	3.0	cnn-19384	CNN	2014-05-02	2014-05-04		Registered Voters	911	3.5	Live Phone	Nonpartisan	None
+41.0	37.0				rasmussen-19382	Rasmussen	2014-04-28	2014-05-04		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+45.0	44.0	7.0	1.0	3.0	abc-post-19341	ABC/Post	2014-04-24	2014-04-27		Registered Voters			Live Phone	Nonpartisan	None
+43.0	47.0	9.0			pew-usa-today-19377	Pew/USA Today	2014-04-23	2014-04-27		Registered Voters	1162	3.3	Live Phone	Nonpartisan	None
+45.0	45.0	10.0			nbc-wsj-19357	NBC/WSJ	2014-04-23	2014-04-27		Registered Voters			Live Phone	Nonpartisan	None
+38.0	40.0	16.0	6.0		rasmussen-19329	Rasmussen	2014-04-21	2014-04-27		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+40.0	41.0	15.0	5.0		rasmussen-19289	Rasmussen	2014-04-14	2014-04-20		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+41.0	44.0	13.0	3.0		fox-19256	FOX	2014-04-13	2014-04-15		Registered Voters	1012	3.0	Live Phone	Nonpartisan	None
+40.0	38.0	16.0	6.0		rasmussen-19248	Rasmussen	2014-04-07	2014-04-13		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+48.0	42.0	10.0			mcclatchy-marist-19252	McClatchy/Marist	2014-04-07	2014-04-10		Registered Voters	1036	3.0	Live Phone	Nonpartisan	None
+40.0	39.0				rasmussen-19215	Rasmussen	2014-03-31	2014-04-06		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+40.0	38.0	18.0	2.0	2.0	quinnipiac-19163	Quinnipiac	2014-03-26	2014-03-31		Registered Voters	1578	2.5	Live Phone	Nonpartisan	None
+40.0	36.0	16.0	8.0		reason-rupe-19173	Reason/Rupe	2014-03-26	2014-03-30		Adults	1003	3.6	Live Phone	Nonpartisan	None
+39.0	38.0	16.0	7.0		rasmussen-19165	Rasmussen	2014-03-24	2014-03-30		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+36.0	37.0	27.0			ap-gfk-web-19137	AP-GfK (Web)	2014-03-20	2014-03-24		Adults	1012	3.4	Internet	Nonpartisan	None
+39.0	39.0	17.0	3.0	2.0	cbs-19133	CBS	2014-03-20	2014-03-23		Registered Voters			Live Phone	Nonpartisan	None
+44.0	43.0	10.0	2.0	0.0	npr-19172	NPR	2014-03-19	2014-03-23		Likely Voters	840	3.18	Live Phone	Pollster	Dem
+41.0	37.0	16.0	6.0		rasmussen-19129	Rasmussen	2014-03-17	2014-03-23		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+43.0	43.0	14.0			gwu-battleground-19123	GWU/Battleground	2014-03-16	2014-03-20		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+38.0	39.0	16.0	7.0		rasmussen-19071	Rasmussen	2014-03-10	2014-03-16		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+43.0	41.0	17.0			mclaughlin-r-19061	McLaughlin (R)	2014-03-09	2014-03-12		Likely Voters	1000	3.1	Internet	Pollster	Rep
+43.0	40.0	17.0			ppp-d-19020	PPP (D)	2014-03-06	2014-03-09		Likely Voters	1152	2.9	Automated Phone	Pollster	Dem
+43.0	44.0	13.0			nbc-wsj-19029	NBC/WSJ	2014-03-05	2014-03-09		Registered Voters			Live Phone	Nonpartisan	None
+39.0	39.0	16.0	6.0		rasmussen-19012	Rasmussen	2014-03-03	2014-03-09		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+40.0	38.0	14.0	8.0		fox-18972	FOX	2014-03-02	2014-03-04		Registered Voters	1002	3.0	Live Phone	Nonpartisan	None
+46.0	45.0	5.0	1.0	3.0	abc-post-18957	ABC/Post	2014-02-27	2014-03-02		Registered Voters			Live Phone	Nonpartisan	None
+39.0	36.0				rasmussen-18953	Rasmussen	2014-02-24	2014-03-02		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+36.0	35.0	19.0	3.0	8.0	yougov-economist-18940	YouGov/Economist	2014-02-22	2014-02-24		Adults	1000	4.1	Internet	Nonpartisan	None
+39.0	42.0	15.0	3.0	3.0	cbs-times-18937	CBS/Times	2014-02-19	2014-02-23		Registered Voters			Live Phone	Nonpartisan	None
+41.0	37.0	16.0	6.0		rasmussen-18913	Rasmussen	2014-02-17	2014-02-23		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+34.0	27.0	25.0	5.0	10.0	yougov-economist-18876	YouGov/Economist	2014-02-15	2014-02-17		Adults	1000	4.2	Internet	Nonpartisan	None
+41.0	37.0				rasmussen-18868	Rasmussen	2014-02-10	2014-02-16		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+41.0	41.0	19.0			mclaughlin-r-19060	McLaughlin (R)	2014-02-06	2014-02-12		Likely Voters	1000	3.1	Internet	Pollster	Rep
+38.0	28.0	21.0	4.0	9.0	yougov-economist-18916	YouGov/Economist	2014-02-08	2014-02-10		Adults	1000	4.0	Internet	Nonpartisan	None
+46.0	44.0	9.0			mcclatchy-marist-18837	McClatchy/Marist	2014-02-04	2014-02-09		Registered Voters	970	3.1	Live Phone	Nonpartisan	None
+40.0	38.0	16.0	6.0		rasmussen-18841	Rasmussen	2014-02-03	2014-02-09		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+35.0	29.0	22.0	3.0	12.0	yougov-economist-18799	YouGov/Economist	2014-02-01	2014-02-03		Adults	1000	4.0	Internet	Nonpartisan	None
+39.0	40.0	16.0	5.0		rasmussen-18794	Rasmussen	2014-01-27	2014-02-02		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+39.0	27.0	21.0	5.0	8.0	yougov-economist-18746	YouGov/Economist	2014-01-25	2014-01-27		Adults	1000	3.9	Internet	Nonpartisan	None
+40.0	42.0	18.0			ppp-d-18736	PPP (D)	2014-01-23	2014-01-26		Likely Voters	845	3.4	Automated Phone	Pollster	Dem
+42.0	37.0	15.0	6.0		rasmussen-18743	Rasmussen	2014-01-20	2014-01-26		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+45.0	43.0	12.0			nbc-wsj-18737	NBC/WSJ	2014-01-22	2014-01-25		Registered Voters			Live Phone	Nonpartisan	None
+41.0	43.0	13.0	4.0		fox-18712	FOX	2014-01-19	2014-01-21		Registered Voters	1010	3.0	Live Phone	Nonpartisan	None
+39.0	32.0	30.0			ap-gfk-web-18725	AP-GfK (Web)	2014-01-17	2014-01-21		Adults	1060	3.9	Internet	Nonpartisan	None
+38.0	29.0	20.0	4.0	10.0	yougov-economist-18722	YouGov/Economist	2014-01-18	2014-01-20		Adults	1000	3.9	Internet	Nonpartisan	None
+37.0	38.0	21.0	2.0	3.0	quinnipiac-18703	Quinnipiac	2014-01-15	2014-01-19		Registered Voters	1933	2.2	Live Phone	Nonpartisan	None
+41.0	35.0	16.0	7.0		rasmussen-18719	Rasmussen	2014-01-13	2014-01-19		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+42.0	41.0	16.0			mclaughlin-r-madison-coalition-19059	McLaughlin (R-Madison Coalition)	2014-01-14	2014-01-17		Likely Voters	1000	3.1	Internet	Sponsor	Rep
+37.0	28.0	23.0	4.0	9.0	yougov-economist-18681	YouGov/Economist	2014-01-11	2014-01-13		Adults	1000	4.3	Internet	Nonpartisan	None
+41.0	37.0	17.0	5.0		rasmussen-18668	Rasmussen	2014-01-06	2014-01-12		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+37.0	38.0	21.0	2.0	2.0	quinnipiac-18644	Quinnipiac	2014-01-04	2014-01-07		Registered Voters	1487	2.5	Live Phone	Nonpartisan	None
+38.0	28.0	21.0	4.0	10.0	yougov-economist-18646	YouGov/Economist	2014-01-04	2014-01-06		Adults	1000	3.9	Internet	Nonpartisan	None
+40.0	38.0	16.0	7.0		rasmussen-18637	Rasmussen	2013-12-30	2014-01-05		Likely Voters	3500	2.0	IVR/Online	Nonpartisan	None
+34.0	29.0	23.0	3.0	11.0	yougov-economist-18640	YouGov/Economist	2013-12-28	2013-12-30		Adults	1000	4.3	Internet	Nonpartisan	None
+40.0	40.0	14.0	6.0		rasmussen-18622	Rasmussen	2013-12-23	2013-12-29		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+39.0	42.0	14.0	5.0		rasmussen-18603	Rasmussen	2013-12-16	2013-12-22		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	49.0				cnn-18605	CNN	2013-12-16	2013-12-19		Registered Voters	950	3.0	Live Phone	Nonpartisan	None
+39.0	34.0	19.0	4.0	4.0	yougov-economist-18635	YouGov/Economist	2013-12-14	2013-12-16		Adults	1000	4.3	Internet	Nonpartisan	None
+43.0	43.0	12.0	3.0		fox-18575	FOX	2013-12-14	2013-12-16		Registered Voters	1027	3.0	Live Phone	Nonpartisan	None
+37.0	30.0	24.0	7.0	2.0	yougov-economist-18573	YouGov/Economist	2013-12-14	2013-12-16		Adults	1000	4.2	Internet	Nonpartisan	None
+43.0	40.0	17.0			ppp-d-18552	PPP (D)	2013-12-12	2013-12-15		Likely Voters	1316	2.7	Automated Phone	Pollster	Dem
+47.0	45.0	3.0	1.0	5.0	abc-post-18550	ABC/Post	2013-12-12	2013-12-15		Registered Voters			Live Phone	Nonpartisan	None
+40.0	40.0	14.0	6.0		rasmussen-18582	Rasmussen	2013-12-09	2013-12-15		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+37.0	34.0	19.0	5.0	5.0	yougov-economist-18521	YouGov/Economist	2013-12-07	2013-12-09		Adults	1000	4.5	Internet	Nonpartisan	None
+39.0	33.0	28.0			ap-gfk-web-18514	AP-GfK (Web)	2013-12-05	2013-12-09		Adults	1367	3.5	Internet	Nonpartisan	None
+38.0	41.0	16.0	3.0	2.0	quinnipiac-18505	Quinnipiac	2013-12-03	2013-12-09		Registered Voters	2692	1.9	Live Phone	Nonpartisan	None
+42.0	44.0	14.0			nbc-wsj-18516	NBC/WSJ	2013-12-05	2013-12-08		Registered Voters			Live Phone	Nonpartisan	None
+33.0	27.0	40.0			reason-rupe-18513	Reason/Rupe	2013-12-04	2013-12-08		Adults	1011	3.7	Live Phone	Nonpartisan	None
+48.0	44.0	8.0			pew-usa-today-18528	Pew/USA Today	2013-12-03	2013-12-08		Registered Voters	1579	2.9	Live Phone	Nonpartisan	None
+38.0	43.0	14.0	5.0		rasmussen-18523	Rasmussen	2013-12-02	2013-12-08		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	43.0	14.0			mcclatchy-marist-18506	McClatchy/Marist	2013-12-03	2013-12-05		Registered Voters	988	3.1	Live Phone	Nonpartisan	None
+38.0	30.0	18.0	4.0	9.0	yougov-economist-18484	YouGov/Economist	2013-11-30	2013-12-02		Adults	1000	3.8	Internet	Nonpartisan	None
+38.0	43.0	14.0	5.0		rasmussen-18487	Rasmussen	2013-11-25	2013-12-01		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+36.0	32.0	20.0	4.0	7.0	yougov-economist-18474	YouGov/Economist	2013-11-23	2013-11-25		Adults	1000	3.8	Internet	Nonpartisan	None
+41.0	40.0	13.0	6.0		rasmussen-18456	Rasmussen	2013-11-18	2013-11-24		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+47.0	49.0	2.0	2.0	1.0	cnn-18458	CNN	2013-11-18	2013-11-20		Registered Voters	749		Live Phone	Nonpartisan	None
+36.0	26.0	23.0	4.0	10.0	yougov-economist-18435	YouGov/Economist	2013-11-16	2013-11-18		Adults	1000	4.6	Internet	Nonpartisan	None
+39.0	40.0	14.0	6.0		rasmussen-18432	Rasmussen	2013-11-11	2013-11-17		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	43.0	13.0	4.0		fox-18399	FOX	2013-11-10	2013-11-12		Registered Voters	1006	3.0	Live Phone	Nonpartisan	None
+34.0	27.0	23.0	4.0	12.0	yougov-economist-18401	YouGov/Economist	2013-11-09	2013-11-11		Adults	1000	4.8	Internet	Nonpartisan	None
+39.0	39.0	18.0	3.0	2.0	quinnipiac-18397	Quinnipiac	2013-11-06	2013-11-11		Registered Voters	2545	1.9	Live Phone	Nonpartisan	None
+41.0	39.0	14.0	6.0		rasmussen-18402	Rasmussen	2013-11-04	2013-11-10		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+35.0	27.0	17.0	4.0	16.0	yougov-economist-18372	YouGov/Economist	2013-11-02	2013-11-04		Adults	1000	5.0	Internet	Nonpartisan	None
+43.0	37.0	14.0	6.0		rasmussen-18362	Rasmussen	2013-10-28	2013-11-03		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	38.0	18.0			ppp-d-18338	PPP (D)	2013-10-29	2013-10-31		Likely Voters	649	3.8	Automated Phone	Pollster	Dem
+45.0	41.0	15.0			gwu-battleground-18357	GWU/Battleground	2013-10-27	2013-10-31		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+37.0	28.0	18.0	5.0	12.0	yougov-economist-18325	YouGov/Economist	2013-10-26	2013-10-28		Adults	1000	4.3	Internet	Nonpartisan	None
+45.0	41.0	14.0			nbc-wsj-18326	NBC/WSJ	2013-10-25	2013-10-28		Registered Voters			Live Phone	Nonpartisan	None
+43.0	37.0	13.0	7.0		rasmussen-18304	Rasmussen	2013-10-21	2013-10-27		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+45.0	37.0	12.0	5.0		fox-18252	FOX	2013-10-20	2013-10-22		Registered Voters	1020	3.0	Live Phone	Nonpartisan	None
+50.0	42.0	1.0	4.0	2.0	cnn-18227	CNN	2013-10-18	2013-10-20		Registered Voters			Live Phone	Nonpartisan	None
+48.0	40.0	4.0	1.0	6.0	abc-post-18226	ABC/Post	2013-10-17	2013-10-20		Registered Voters	865	3.9	Live Phone	Nonpartisan	None
+43.0	36.0	14.0	7.0		rasmussen-18234	Rasmussen	2013-10-14	2013-10-20		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+49.0	43.0	8.0			pew-18190	Pew	2013-10-09	2013-10-13		Registered Voters	1259	3.2	Live Phone	Nonpartisan	None
+45.0	38.0	12.0	6.0		rasmussen-18185	Rasmussen	2013-10-07	2013-10-13		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	36.0	14.0	4.0	1.0	gqr-d-18172	GQR (D)	2013-10-07	2013-10-10		Registered Voters	801	3.5	Live Phone	Pollster	Dem
+47.0	39.0	14.0			nbc-wsj-18169	NBC/WSJ	2013-10-07	2013-10-09		Registered Voters	688	3.74	Live Phone	Nonpartisan	None
+47.0	43.0	8.0	2.0		democracy-corps-d-wvwv-18167	Democracy Corps (D-WVWV)	2013-10-06	2013-10-08		Likely Voters	860	3.18	Live Phone	Pollster	Dem
+46.0	41.0	14.0			ppp-d-18151	PPP (D)	2013-10-04	2013-10-06		Likely Voters	1000	3.1	Automated Phone	Pollster	Dem
+40.0	40.0	13.0	7.0		rasmussen-18165	Rasmussen	2013-09-30	2013-10-06		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+42.0	38.0	15.0	5.0		rasmussen-18128	Rasmussen	2013-09-23	2013-09-29		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	34.0	17.0	4.0	2.0	quinnipiac-18107	Quinnipiac	2013-09-23	2013-09-29		Registered Voters	1497	2.5	Live Phone	Nonpartisan	None
+45.0	40.0	15.0			ppp-d-18113	PPP (D)	2013-09-25	2013-09-26		Likely Voters	709	3.5	Automated Phone	Pollster	Dem
+40.0	37.0	16.0	6.0		rasmussen-18093	Rasmussen	2013-09-16	2013-09-22		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	38.0	18.0	6.0		rasmussen-17959	Rasmussen	2013-09-09	2013-09-15		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	43.0	11.0			nbc-wsj-17917	NBC/WSJ	2013-09-05	2013-09-08		Adults	1000	3.1	Live Phone	Nonpartisan	None
+39.0	39.0	16.0	6.0		rasmussen-17958	Rasmussen	2013-09-02	2013-09-08		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+39.0	37.0	19.0	5.0		rasmussen-17907	Rasmussen	2013-08-26	2013-09-01		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	39.0	17.0	6.0		rasmussen-17879	Rasmussen	2013-08-19	2013-08-25		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	38.0	17.0	7.0		rasmussen-17836	Rasmussen	2013-08-12	2013-08-18		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+39.0	39.0	17.0	5.0		rasmussen-17807	Rasmussen	2013-08-05	2013-08-11		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	41.0	16.0	5.0		rasmussen-17776	Rasmussen	2013-07-29	2013-08-04		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	36.0	19.0	3.0	2.0	quinnipiac-17764	Quinnipiac	2013-07-28	2013-07-31		Registered Voters	1468	2.6	Live Phone	Nonpartisan	None
+39.0	38.0	16.0	7.0		rasmussen-17750	Rasmussen	2013-07-22	2013-07-28		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	44.0	12.0			nbc-wsj-17722	NBC/WSJ	2013-07-17	2013-07-21		Registered Voters			Live Phone	Nonpartisan	None
+40.0	38.0	17.0	6.0		rasmussen-17714	Rasmussen	2013-07-15	2013-07-21		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	44.0	11.0	2.0		democracy-corps-d-wvwv-17739	Democracy Corps (D-WVWV)	2013-07-10	2013-07-15		Likely Voters	841	3.18	Live Phone	Pollster	Dem
+38.0	39.0	18.0	5.0		rasmussen-17683	Rasmussen	2013-07-08	2013-07-14		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+39.0	34.0	21.0	3.0	2.0	quinnipiac-17657	Quinnipiac	2013-06-28	2013-07-08		Registered Voters	2014	2.2	Live Phone	Nonpartisan	None
+39.0	40.0	15.0	6.0		rasmussen-17644	Rasmussen	2013-07-01	2013-07-07		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	39.0	17.0	6.0		rasmussen-17625	Rasmussen	2013-06-24	2013-06-30		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	39.0	15.0	7.0		rasmussen-17596	Rasmussen	2013-06-17	2013-06-23		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+39.0	39.0	17.0	6.0		rasmussen-17565	Rasmussen	2013-06-10	2013-06-16		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+47.0	40.0	12.0			ppp-d-17550	PPP (D)	2013-06-11	2013-06-13		Likely Voters	603	4.0	Automated Phone	Pollster	Dem
+40.0	38.0	15.0	6.0		rasmussen-17523	Rasmussen	2013-06-03	2013-06-09		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+45.0	42.0	13.0			nbc-wsj-17490	NBC/WSJ	2013-05-30	2013-06-02		Registered Voters			Live Phone	Nonpartisan	None
+40.0	40.0	14.0	6.0		rasmussen-17494	Rasmussen	2013-05-27	2013-06-02		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+38.0	38.0	20.0	3.0	1.0	quinnipiac-17470	Quinnipiac	2013-05-22	2013-05-28		Registered Voters	1419	2.6	Live Phone	Nonpartisan	None
+41.0	39.0	15.0	6.0		rasmussen-17465	Rasmussen	2013-05-20	2013-05-26		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+48.0	40.0	6.0	2.0	5.0	abc-post-17424	ABC/Post	2013-05-15	2013-05-19		Registered Voters			Live Phone	Nonpartisan	None
+39.0	40.0	16.0	5.0		rasmussen-17423	Rasmussen	2013-05-13	2013-05-19		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	38.0	16.0	6.0		rasmussen-17405	Rasmussen	2013-05-06	2013-05-11		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+40.0	38.0	17.0	6.0		rasmussen-17355	Rasmussen	2013-04-29	2013-05-05		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+41.0	37.0	19.0	3.0	1.0	quinnipiac-17331	Quinnipiac	2013-04-25	2013-04-29		Registered Voters	1471	2.6	Live Phone	Nonpartisan	None
+39.0	40.0	15.0	6.0		rasmussen-17326	Rasmussen	2013-04-22	2013-04-28		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+41.0	39.0	15.0	5.0		rasmussen-17295	Rasmussen	2013-04-15	2013-04-21		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+42.0	38.0	15.0	5.0		rasmussen-17265	Rasmussen	2013-04-08	2013-04-14		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+41.0	38.0	16.0	5.0		rasmussen-17248	Rasmussen	2013-04-01	2013-04-07		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	35.0	18.0	2.0	2.0	quinnipiac-17216	Quinnipiac	2013-03-26	2013-04-01		Registered Voters	1711	2.4	Live Phone	Nonpartisan	None
+44.0	37.0	14.0	5.0		rasmussen-17227	Rasmussen	2013-03-25	2013-03-31		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	38.0	14.0	5.0		rasmussen-17224	Rasmussen	2013-03-18	2013-03-24		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	38.0	14.0	5.0		rasmussen-17179	Rasmussen	2013-03-11	2013-03-17		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	42.0	9.0	3.0		democracy-corps-d-17151	Democracy Corps (D)	2013-03-09	2013-03-12		Likely Voters	840	3.18	Live Phone	Pollster	Dem
+43.0	40.0	12.0	5.0		rasmussen-17138	Rasmussen	2013-03-04	2013-03-10		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	40.0	12.0	5.0		rasmussen-17110	Rasmussen	2013-02-25	2013-03-03		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+41.0	42.0	10.0	7.0		harper-r-conservative-intelligence-briefing-17097	Harper (R-Conservative Intelligence Briefing)	2013-02-25	2013-02-26		Likely Voters	2184	2.1	Automated Phone	Sponsor	Rep
+43.0	38.0	14.0	5.0		rasmussen-17075	Rasmussen	2013-02-18	2013-02-24		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+43.0	37.0	14.0	6.0		rasmussen-17049	Rasmussen	2013-02-11	2013-02-17		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+42.0	39.0	14.0	5.0		rasmussen-17011	Rasmussen	2013-02-04	2013-02-10		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+45.0	45.0	10.0			ppp-d-16990	PPP (D)	2013-01-31	2013-02-03		Likely Voters	800	3.5	Automated Phone	Pollster	Dem
+44.0	38.0	13.0	5.0		rasmussen-16980	Rasmussen	2013-01-28	2013-02-03		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+45.0	37.0		5.0	13.0	rasmussen-16946	Rasmussen	2013-01-21	2013-01-27		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	39.0	13.0	5.0		rasmussen-16929	Rasmussen	2013-01-14	2013-01-20		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	42.0	9.0	2.0		democracy-corps-d-16944	Democracy Corps (D)	2013-01-10	2013-01-14		Likely Voters	852		Live Phone	Pollster	Dem
+43.0	37.0	14.0	5.0		rasmussen-16888	Rasmussen	2013-01-07	2013-01-13		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	38.0	13.0	5.0		rasmussen-16887	Rasmussen	2013-01-02	2013-01-06		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	35.0	13.0	6.0		rasmussen-16852	Rasmussen	2012-12-26	2012-12-30		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	38.0	14.0	4.0		rasmussen-16851	Rasmussen	2012-12-17	2012-12-22		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	38.0	12.0	4.0		rasmussen-16850	Rasmussen	2012-12-10	2012-12-16		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+46.0	36.0	12.0	5.0		rasmussen-16849	Rasmussen	2012-12-03	2012-12-09		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+44.0	42.0	13.0			politico-gwu-battleground-16794	Politico/GWU/Battleground	2012-12-02	2012-12-06		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+47.0	36.0	13.0	5.0		rasmussen-16775	Rasmussen	2012-11-26	2012-12-02		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+45.0	40.0	11.0	4.0		rasmussen-16737	Rasmussen	2012-11-19	2012-11-25		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
+45.0	40.0	11.0	4.0		rasmussen-16735	Rasmussen	2012-11-12	2012-11-18		Likely Voters	3500	2.0	Automated Phone	Nonpartisan	None
